@@ -50,6 +50,11 @@ To solve this , we made a slight change in the hw_config.c :
 void spi0_dma_isr() { spi_irq_handler(&spis[0]); } changed to : void spi0_dma_isr() { irq_handler_t(spis[0]); }
 
 
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
+
+
 
 
 
