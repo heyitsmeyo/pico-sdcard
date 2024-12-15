@@ -36,6 +36,9 @@ then :
 
     Make 
 
+# debug : 
+
+For debugging , use Putty , serial communiction with a baud rate of 115200 
 
 
 # Key change : 
