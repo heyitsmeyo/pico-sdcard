@@ -1,0 +1,3 @@
+/home/tarek/Desktop/digi/build/pioasm/CMakeFiles/pioasm.dir
+/home/tarek/Desktop/digi/build/pioasm/CMakeFiles/edit_cache.dir
+/home/tarek/Desktop/digi/build/pioasm/CMakeFiles/rebuild_cache.dir

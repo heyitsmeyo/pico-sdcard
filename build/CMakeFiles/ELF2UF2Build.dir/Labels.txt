@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/tarek/Desktop/digi/build/CMakeFiles/ELF2UF2Build
+/home/tarek/Desktop/digi/build/CMakeFiles/ELF2UF2Build.rule
+/home/tarek/Desktop/digi/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/tarek/Desktop/digi/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
